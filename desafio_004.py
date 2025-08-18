@@ -1,2 +1,2 @@
-n = input("digite algo|: ")
+n = input("digite algo: ")
 print(n.isalpha())
