@@ -16,3 +16,5 @@ if jog.strip() == '':
     ficha(gol= g)
 else:
     ficha(jog, g)
+
+print('ola')
