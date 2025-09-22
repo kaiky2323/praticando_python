@@ -1,4 +1,4 @@
-def leiaint(num):
+def leiaint(num=0):
     ok = False
     valor = 0
     while True:

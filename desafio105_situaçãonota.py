@@ -23,4 +23,3 @@ def lnota(*notas, situacao = False):
 #Programa Principal
 resposta = lnota(4, 7, 10, 5.5, 4, situacao=True)
 print(resposta)
-lnota(help())
